@@ -1,0 +1,2 @@
+# SageMath
+Math engine for python/cython. Deep, broad, and fast. Calculus,  Cryptography,  Differential Equations, Graphics,  Dynamical Systems, Geometry,  Graph Theory,  Linear Algebra, Number Theory,  Statistics/Probability,  interactives that could make for useful web tools. Only works in Jupyter NB, not Lab :/ This is a mish mash of standard formats/equations I'll likely use to build off of. Lower abstraction than Sympy, but much faster and seemingly broader applications.
